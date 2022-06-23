@@ -1,0 +1,124 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    background-color: rgb(233, 230, 195);
+    
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-image: linear-gradient(rgb(30, 115, 66),rgb(27, 114, 66),rgb(17, 95, 49),rgb(10, 82, 40),rgb(3, 63, 28));
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
+
+nav {
+    background-color:rgb(3, 63, 28);
+    
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 10px;
+    
+    
+}
+
+a:hover > strong {
+    color: rgb(44, 161, 93);
+    
+}
+
+       @font-face {
+        font-family:'Love larry';
+        src: url('IDroid.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+        
+    }
+
+ .Android {
+     font-family:'Love larry';
+     color:rgb(25, 102, 59);
+     padding: 15px;
+     
+     
+     
+ }   
+  
+ #fundo {
+    margin: 0px auto;
+    width: 80%;
+    background: white;
+    padding-bottom: 100%;
+    box-shadow: 0px 1px 1px 1px rgba(192, 188, 149, 0.979);
+    text-align: justify;
+    
+}
+
+h2 {
+    font-family:'Love larry';
+    color:rgb(25, 102, 59);
+    font-size: 18px;
+    margin: 15px;
+    background-image:linear-gradient(to right, rgb(113, 219, 175), white)
+}
+
+p {
+    margin: 15px;
+    text-indent: 30px;
+}
+
+.cor {
+    color: rgb(26, 100, 57);
+    background-color:rgb(133, 236, 193);
+    
+}
+
+
+b {
+    color:rgb(26, 100, 57);;
+}
+
+.img {
+  position:relative;
+  left: 87px;
+  width: 85%;
+  top: 8px;
+}
+
+#imgbug {
+    position:relative;
+    left: 300px;
+    width: 40%;
+    top: 8px;
+}
+
+iframe {
+  position: relative;
+  left: 260px;
+  top: 50px;
+
+}
+
+#fundovideo {
+    margin: 0px ;
+    width: 100%;
+    background: rgb(30, 115, 66);
+    padding-bottom: 10%;
+    text-align: justify;
+}
+
+#verde {
+    background-color: rgb(30, 115, 66);
+    margin: 15px;
+}
