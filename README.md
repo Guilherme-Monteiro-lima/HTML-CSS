@@ -1,3 +1,3 @@
 # HTML-CSS
- Curso de HTML5, CSS3 e JavaScript
+ Curso de HTML5 e CSS3 aprendendo com CursoEmVideo
 
